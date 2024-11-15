@@ -1,10 +1,11 @@
-Name: Evelyn Huang
+**Name:** Evelyn Huang  
 
-Email: xih037@ucsd.edu
+**Email:** xih037@ucsd.edu  
 
-Section: A09
+**Section:** A09  
 
-Professor: Professor.Huang and Professor.Bradic
+**Professor:** Professor Huang and Professor Bradic
+
 
 **1. What is the most interesting topic covered in your domain this quarter?** 
 The most interesting topic covered in my domain is causal discovery, given complexity of the real world data, it is interesting to see how different algorithm unpack the complex causal relationship between variables across different domains(medical,economic,finance,social etc). It is also interesting to see how causal discovery is used with machine learnining, with reinforcement learning as an example to better design it's rewards for better model training and performance.
