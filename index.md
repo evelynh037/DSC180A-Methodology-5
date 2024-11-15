@@ -1,6 +1,9 @@
 Name: Evelyn Huang
+
 Email: xih037@ucsd.edu
+
 Section: A09
+
 Professor: Professor.Huang and Professor.Bradic
 
 **1. What is the most interesting topic covered in your domain this quarter?** 
